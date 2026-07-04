@@ -9,7 +9,7 @@ const users = [
     "name" :"John Doe",
     "gender" :"Male",
     "image" : "../images/john.png"
-  },
+  }
 ]
 let curUserId = 0;
 function toggle(){
