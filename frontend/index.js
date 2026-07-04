@@ -7,7 +7,7 @@ const users = [
   },
   {
     "name" :"John Doe",
-    "gender" : "Male",
+    "gender" :"Male",
     "image" : "../images/john.png"
   },
 ]
